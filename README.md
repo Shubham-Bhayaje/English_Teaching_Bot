@@ -1,5 +1,10 @@
 # English Practice Assistant 
 
+## UI Preview
+<p align="center">
+<img src="https://github.com/Shubham-Bhayaje/VoxScript/blob/main/Main_Ui.png" width="100%">
+</p>
+
 ## Overview
 The English Practice Assistant is a desktop application designed to help users improve their English language skills through interactive conversation practice. The application features text and voice interaction, AI-powered responses, and various customization options for different learning levels.
 
