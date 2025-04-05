@@ -1,0 +1,13 @@
+2025-04-05 23:39:16,088 - flet_runtime - INFO - Assets path configured: C:\English_Teaching_Bot\assets
+2025-04-05 23:39:16,088 - flet_runtime - INFO - Starting up TCP server on localhost:34646
+2025-04-05 23:39:16,093 - flet_runtime - INFO - Flet app has started...
+2025-04-05 23:39:16,094 - flet_runtime - INFO - App URL: tcp://localhost:34646
+2025-04-05 23:39:16,094 - flet_runtime - INFO - Starting Flet View app...
+2025-04-05 23:39:16,095 - flet_runtime - INFO - Flet View found in: C:\Users\shubham\AppData\Local\Programs\Python\Python312\Lib\site-packages\flet\bin\flet\flet.exe
+2025-04-05 23:39:16,877 - flet_runtime - INFO - App session started
+2025-04-05 23:39:16,878 - english_practice_assistant - WARNING - No API key provided!
+2025-04-05 23:39:17,164 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\shubham\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-05 23:39:17,164 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\shubham\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-05 23:39:17,303 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2025-04-05 23:39:17,308 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-04-05 23:39:17,385 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
