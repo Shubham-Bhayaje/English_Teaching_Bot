@@ -1,4 +1,4 @@
-# English Practice Assistant - README
+# English Practice Assistant 
 
 ## Overview
 The English Practice Assistant is a desktop application designed to help users improve their English language skills through interactive conversation practice. The application features text and voice interaction, AI-powered responses, and various customization options for different learning levels.
